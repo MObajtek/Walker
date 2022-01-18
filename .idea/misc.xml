@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Walker/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Walker/app/src/main/res/layout/activity_owner_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Walker/app/src/main/res/layout/activity_owner_main.xml" value="0.264" />
         <entry key="..\:/Walker/app/src/main/res/layout/activity_walker_main.xml" value="0.17708333333333334" />
         <entry key="..\:/Walker/app/src/main/res/layout/content_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Walker/app/src/main/res/layout/fragment_errand_owner.xml" value="0.2608695652173913" />
+        <entry key="..\:/Walker/app/src/main/res/layout/fragment_errand_owner_list.xml" value="0.2604166666666667" />
         <entry key="..\:/Walker/app/src/main/res/layout/fragment_first.xml" value="0.14010416666666667" />
+        <entry key="..\:/Walker/app/src/main/res/layout/fragment_owner_list_main.xml" value="0.2608695652173913" />
+        <entry key="..\:/Walker/app/src/main/res/layout/fragment_owner_list_main_list.xml" value="0.2604166666666667" />
+        <entry key="..\:/Walker/app/src/main/res/layout/list_owner_main.xml" value="0.14375" />
         <entry key="..\:/Walker/app/src/main/res/layout/main_activity2.xml" value="0.27447916666666666" />
         <entry key="..\:/Walker/app/src/main/res/menu/menu_main.xml" value="0.27447916666666666" />
       </map>

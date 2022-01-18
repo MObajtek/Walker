@@ -1,0 +1,5 @@
+Name:Pufek
+Breed:Labrador
+Age:5
+Activity:3
+Info:Nie lubi wiewiórek

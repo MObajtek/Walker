@@ -1,0 +1,5 @@
+Date:12/01/2022
+PetID:1234
+Location:Kraków
+Price:12
+State:1
