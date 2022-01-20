@@ -2,7 +2,9 @@ package com.example.walker;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class OwnerMainActivity extends AppCompatActivity {
 
@@ -17,5 +19,9 @@ public class OwnerMainActivity extends AppCompatActivity {
                     .add(R.id.fragment_container_view, ErrandOwnerFragment.class, null)
                     .commit();
         }
+    }
+    public void openAddPet(View view){
+        Intent intent = new Intent(OwnerMainActivity.this, AddPetActivity.class);
+        startActivity(intent);
     }
 }
